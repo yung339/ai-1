@@ -9,6 +9,6 @@ numpy>=1.21.0
 pandas
 plotly
 
-pandas
+streamlit
 plotly
-
+pandas
